@@ -1,0 +1,28 @@
+h1 {
+    background: red;
+}
+span {
+    background: green;
+}
+.p1 {
+    border: 10px solid yellow;
+    border-radius: 5px;
+    margin-bottom: 80px;
+    padding-left: 40px;
+}
+.p2 {
+    background: red;
+    font-size: 24pt;
+    color: green
+}
+.p3 {
+    font-weight: 900;
+    font-size: 20px;
+    font-family: Helvetica
+}
+.p4 {
+    font-size:24px;
+    font-style: oblique;
+    text-align: center;
+    text-shadow: green -5px 3px;
+}
